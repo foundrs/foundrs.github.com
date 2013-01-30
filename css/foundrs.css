@@ -4,7 +4,14 @@ body {
     background-image: url("/img/background.png");
 }
 
+.about-photo {
+  background-image: url("/img/about.jpg");
+  background-repeat: no-repeat;
+  height: 200px;
+}
+
 /* Custom container */
+
 .container-narrow {
     margin: 0 auto;
     max-width: 700px;
