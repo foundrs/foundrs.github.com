@@ -9,10 +9,11 @@ body {
 }
 
 .home-message {
+  background-image: url("../assets/splash.jpg");
+  background-repeat: "no-repeat";
   width: 100%; 
-  height: 585px;
-  background-color: #7f7f7f;
-  padding-top: 170px;
+  height: 520px;
+  padding-top: 150px;
 }
 
 .navbar { 
@@ -26,6 +27,9 @@ body {
 .navbar-nav > li {
   font-size: 20px;
   color: #444545;
+}
+
+#home-text {
 }
 
 .my-btn {
@@ -200,4 +204,5 @@ body {
 
 .advisor-header {
   padding-top: 80px;
+  margin-left: 40px;
 }
