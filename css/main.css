@@ -181,6 +181,13 @@ body {
   padding: 0 45px;
 }
 
+.social-section a, a img{
+ text-decoration: none;
+ outline: none;
+ border: 0px none transparent;
+}
+
+
 .section-advisors, .section-advisors ul{
   margin: 0 auto;  
 }
